@@ -13,5 +13,3 @@ These instructions are for those who intend to use this as a starter template fo
 1. run `gem install bundler jekyll`
 1. run `bundle exec jekyll serve`
 1. Open `http://localhost:4000/`
-I am confused, I forked this from Jeremy, but it still says Jekyll-paper, jeremy says because I changed the name/title there is issues
- # fix polling bug gem 'wdm', '>=0.1.0' if Gem.win_platform?
