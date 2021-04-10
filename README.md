@@ -14,4 +14,6 @@ These instructions are for those who intend to use this as a starter template fo
 1. run `bundle exec jekyll serve`
 1. Open `http://localhost:4000/`
 
+I had issues with FORKing from Jeremy Jekyll-pages so I am here trying to copy and paste
+
  # fix polling bug gem 'wdm', '>=0.1.0' if Gem.win_platform?
