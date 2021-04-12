@@ -16,6 +16,6 @@ These instructions are for those who intend to use this as a starter template fo
 
 I had issues with FORKing from Jeremy Jekyll-pages so I am here trying to copy and paste.
 Today is Sunday and I will try later to keep building this README and explain...
-
+This is Monday, I ran out of time, took my 2nd shot.
 
  # fix polling bug gem 'wdm', '>=0.1.0' if Gem.win_platform?
