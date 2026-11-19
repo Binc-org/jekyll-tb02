@@ -2,6 +2,8 @@
 
 Hello :wave:
 
+Today is November 2026... still learning
+
 This is a basic starter template for creating [Jekyll](https://jekyllrb.com/) sites.
 
 ## Getting started
